@@ -2,6 +2,8 @@
 
 The **Star Citizen Cheats Tool** is an advanced enhancement suite designed to give pilots superior situational awareness and control in the vast universe of *Star Citizen*. From **ESP overlays** for tracking ships and loot to **auto-flight stabilization**, this tool empowers both traders and bounty hunters to optimize their gameplay, explore safely, and master the cosmos.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://star-citizen-cheats-tool.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
